@@ -246,7 +246,7 @@ function App() {
               <span className="text-teal-300">✓</span> Trazabilidad y configuracion de software 9
             </li>
             <li className="flex items-center gap-2">
-              <span className="text-teal-300">✓</span> Ingenieria de requermientows 10
+              <span className="text-teal-300">✓</span> Ingenieria de requermientos 10
             </li>
             <li className="flex items-center gap-2">
               <span className="text-teal-300">✓</span> Protocolo y enrutamiento de redes 8
@@ -254,7 +254,7 @@ function App() {
           </ul>
 
           <p className="text-gray-500 text-sm mt-6">
-            Siguientes pasos: Computo en la nube, Analitica web y mas... (Cuatrimestre 26-1).
+            Siguientes pasos: Seminario de ingenieria,Fin de la carrera... (Cuatrimestre 26-3).
           </p>
         </div>
       </section>
